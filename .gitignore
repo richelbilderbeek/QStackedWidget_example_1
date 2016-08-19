@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+QStackedWidgetExample1
+*.pro.user
+moc_*
+ui_*
